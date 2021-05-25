@@ -1,0 +1,4 @@
+#忽略aaa这个文件
+aaa/
+#忽略index.css这个文件
+index.css
